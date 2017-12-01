@@ -1,0 +1,3 @@
+OVERVIEW:
+This repository contains an academic assignment I was given it to understand the working of hash tables and their implementation with user accounts. The hash table class mimics similar ones used in the STL’s unordered set and map class. The ‘Passserver’ class utilizes the hash table class in order to simulate a server. ‘Proj5.cpp’ allows the user to work with the main server features. 
+

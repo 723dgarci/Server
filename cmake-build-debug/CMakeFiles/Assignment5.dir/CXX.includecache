@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WorkD/CLionProjects/untitled/DSA/Assignment5/hashtable.h
+vector
+-
+list
+-
+hashtable.hpp
+C:/Users/WorkD/CLionProjects/untitled/DSA/Assignment5/hashtable.hpp
+
+C:/Users/WorkD/CLionProjects/untitled/DSA/Assignment5/hashtable.hpp
+hashtable.h
+C:/Users/WorkD/CLionProjects/untitled/DSA/Assignment5/hashtable.h
+iostream
+-
+functional
+-
+
+C:/Users/WorkD/CLionProjects/untitled/DSA/Assignment5/main.cpp
+iostream
+-
+hashtable.h
+C:/Users/WorkD/CLionProjects/untitled/DSA/Assignment5/hashtable.h
+
